@@ -1,10 +1,10 @@
 
-#Anchor Protocol
-http://book.anchor-lang.com/ - Anchor Book
+#Anchor Protocol  
+http://book.anchor-lang.com/   - Anchor Book  
 #Solana-Labs
-https://www.youtube.com/watch?v=J2ggQkr_JGw&t=30s - All Things Solana workshop by jxio
-https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0 -solana bootcamp playlist 
-https://www.youtube.com/watch?v=YN5kvpqgYVc - solana archtechture diff - @developerdao
+https://www.youtube.com/watch?v=J2ggQkr_JGw&t=30s   - All Things Solana workshop by jxio
+https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0   -solana bootcamp playlist 
+https://www.youtube.com/watch?v=YN5kvpqgYVc   - solana archtechture diff - @developerdao
 
 
 # Solana-Internals
